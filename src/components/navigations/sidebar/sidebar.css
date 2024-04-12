@@ -1,0 +1,13 @@
+#side-wrapper{
+    width:  220px;
+    height: 100%;
+    background: #000000cd;
+    display: flex;
+    padding: 25px 15px;
+}
+
+#links{
+    display: flex;
+    flex-direction: column;
+   width: 100%;
+}
